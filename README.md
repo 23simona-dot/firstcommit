@@ -1,2 +1,2 @@
-# energy-clicker
+# Study-Tool-Project
 
